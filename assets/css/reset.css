@@ -1,0 +1,109 @@
+h2, .h2 {
+    font-size: 3.8em;
+}
+
+p {
+    font-size: 18px;
+}
+
+body {
+	color: #000000;
+	font-size: 16px;
+}
+
+.pad-top {
+	padding-top: 100px!important;
+}
+
+.text-color-arkuma {
+	color: #1c4587;
+}
+
+.bg-beige {
+	background-color: #ffcdcd;
+}
+
+.bg-gre {
+	background-color: #cdfecd;
+}
+
+table.table-special > thead > tr > th.th-special-2 {
+	border-top: 0px;
+	border-left: 0px;
+	border-bottom: 0px;
+}
+
+table.table-special > thead > tr > th.th-special-1 {
+	border-top: 0px;
+	border-bottom: 0px;
+}
+
+table.table-special > thead > tr > th.th-special-3 {
+	border-top: 0px;
+}
+
+table.table-special > tbody > tr > th.th-special {
+	border-left: 0px;
+}
+
+.check {
+  display: inline-block;
+  transform: rotate(45deg);
+  height: var(--height);
+  width: var(--width);
+  border-bottom: var(--borderWidth) solid var(--borderColor);
+  border-right: var(--borderWidth) solid var(--borderColor);
+}
+
+.small-italic {
+	font-style: italic;
+}
+
+.small-underline {
+	text-decoration: underline;
+}
+
+.ssa {
+	font-weight: bold;
+}
+
+.bouncer {
+	color: #82b300;
+}
+
+.fighter {
+	color: #be318f;
+}
+
+.phantom {
+	color: #1481CE;
+}
+
+.hunter {
+	color: #be3434;
+}
+
+.braver {
+	color: #077604;
+}
+
+.techer {
+	color: #df9809;
+}
+
+.summoner {
+	color: #FF0072;
+}
+
+.luster {
+	color: #DB1313;
+}
+
+.etoile {
+	color: #FFD700;
+}
+
+.footer-black {
+	background-color: #000000;
+	color: white;
+}
