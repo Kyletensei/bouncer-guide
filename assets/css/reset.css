@@ -108,3 +108,6 @@ table.table-special > tbody > tr > th.th-special {
 	background-color: #000000;
 	color: white;
 }
+p {
+    font-family: sans-serif;
+}
